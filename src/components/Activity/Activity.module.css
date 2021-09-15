@@ -1,0 +1,38 @@
+.activityBlock {
+    background: rgb(2,0,36);
+    background: linear-gradient(176deg, rgba(2,0,36,1) 0%, rgba(81,81,193,1) 81%, rgba(0,212,255,1) 100%);
+    width: 1000px;
+    min-height: 700px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.sh {
+    color: white;
+    font-size: 25px;
+}
+
+.ac {
+    color: white;
+    font-size: 25px;
+}
+.should {
+
+}
+
+.details {
+
+
+}
+
+.formControl {
+    width: 400px;
+    height: 60px;
+    border-radius: 7px;
+}
+
+.formSelect {
+    width: 400px;
+    height: 60px;
+    border-radius: 7px;
+}
