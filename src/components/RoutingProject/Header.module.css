@@ -1,0 +1,26 @@
+.header {
+    width: 1000px;
+    height: 80px;
+    display: flex;
+    justify-content: left;
+    margin: 8em auto 0;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    margin: 25px;
+    font-size: 22px;
+    font-family: "Andale Mono", monospace;
+}
+
+.link:hover {
+    color: goldenrod;
+    opacity: 0.5;
+}
+
+.active {
+    color: gold;
+    border-bottom: 3px outset azure;
+    margin-bottom: 13px;
+}
