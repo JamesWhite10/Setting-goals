@@ -1,1 +1,9 @@
-.App {}
+.App {
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(159,78,86,1) 100%, rgba(103,170,184,1) 100%);
+    background-size: cover;
+    width: 1060px;
+    min-height: 810px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
