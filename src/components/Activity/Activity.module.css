@@ -1,38 +1,71 @@
 .activityBlock {
-    background: rgb(2,0,36);
-    background: linear-gradient(176deg, rgba(2,0,36,1) 0%, rgba(81,81,193,1) 81%, rgba(0,212,255,1) 100%);
+    background: rgb(2, 0, 36);
+    background: linear-gradient(176deg, rgba(2, 0, 36, 1) 0%, rgba(81, 81, 193, 1) 81%, rgba(0, 212, 255, 1) 100%);
     width: 1000px;
     min-height: 700px;
     margin: 0 auto;
-    border-radius: 10px;
+    border-radius: 5px;
+    border: 3px solid black;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
 }
 
-.sh {
+.should h3, .details h3, .details h5 {
     color: white;
-    font-size: 25px;
+    margin-bottom: 25px;
+    letter-spacing: 3px;
 }
 
-.ac {
-    color: white;
-    font-size: 25px;
+.details h5 {
+    margin-top: 30px;
+    margin-bottom: 7px;
 }
+
+.should button, .details button {
+    display: flex;
+    margin: 30px auto;
+    letter-spacing: 1px;
+}
+
+.should button:hover {
+    box-shadow: 0 0 10px 100px green inset;
+    transition: all .3s ease-in-out;
+    color: white;
+}
+
+.details button:hover {
+    box-shadow: 0 0 10px 100px gold inset;
+    transition: all .3s ease-in-out;
+    color: black;
+}
+
 .should {
-
+    flex: 1;
+    min-height: 700px;
+    padding: 30px;
+    border-right: 2px solid white;
 }
 
 .details {
-
-
+    flex: 1;
+    padding: 30px;
 }
 
 .formControl {
-    width: 400px;
+    width: 440px;
     height: 60px;
     border-radius: 7px;
 }
 
 .formSelect {
-    width: 400px;
+    width: 440px;
     height: 60px;
     border-radius: 7px;
+}
+
+.slider {
+    display: flex;
+    width: 440px;
 }

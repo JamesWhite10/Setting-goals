@@ -2,7 +2,20 @@
     background: rgb(2,0,36);
     background: linear-gradient(176deg, rgba(2,0,36,1) 0%, rgba(81,81,193,1) 81%, rgba(0,212,255,1) 100%);
     width: 1000px;
-    min-height: 700px;
+    min-height: 450px;
     margin: 0 auto;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.clear {
+    margin: 0 auto;
+}
+
+.clear button {
+    letter-spacing: 3px;
+    width: 200px;
+    padding: 10px;
+    margin: 15px;
 }
