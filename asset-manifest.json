@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Setting-goals/activity/static/css/main.d1e1011f.chunk.css",
-    "main.js": "/Setting-goals/activity/static/js/main.1e6b6a23.chunk.js",
-    "main.js.map": "/Setting-goals/activity/static/js/main.1e6b6a23.chunk.js.map",
-    "runtime-main.js": "/Setting-goals/activity/static/js/runtime-main.27c02c97.js",
-    "runtime-main.js.map": "/Setting-goals/activity/static/js/runtime-main.27c02c97.js.map",
-    "static/css/2.f2512455.chunk.css": "/Setting-goals/activity/static/css/2.f2512455.chunk.css",
-    "static/js/2.366cba8b.chunk.js": "/Setting-goals/activity/static/js/2.366cba8b.chunk.js",
-    "static/js/2.366cba8b.chunk.js.map": "/Setting-goals/activity/static/js/2.366cba8b.chunk.js.map",
-    "static/js/3.1f76efb0.chunk.js": "/Setting-goals/activity/static/js/3.1f76efb0.chunk.js",
-    "static/js/3.1f76efb0.chunk.js.map": "/Setting-goals/activity/static/js/3.1f76efb0.chunk.js.map",
-    "index.html": "/Setting-goals/activity/index.html",
-    "static/css/2.f2512455.chunk.css.map": "/Setting-goals/activity/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.d1e1011f.chunk.css.map": "/Setting-goals/activity/static/css/main.d1e1011f.chunk.css.map",
-    "static/js/2.366cba8b.chunk.js.LICENSE.txt": "/Setting-goals/activity/static/js/2.366cba8b.chunk.js.LICENSE.txt"
+    "main.css": "/Setting-goals/static/css/main.fc5d65d8.chunk.css",
+    "main.js": "/Setting-goals/static/js/main.a0d47648.chunk.js",
+    "main.js.map": "/Setting-goals/static/js/main.a0d47648.chunk.js.map",
+    "runtime-main.js": "/Setting-goals/static/js/runtime-main.9ed492d8.js",
+    "runtime-main.js.map": "/Setting-goals/static/js/runtime-main.9ed492d8.js.map",
+    "static/css/2.f2512455.chunk.css": "/Setting-goals/static/css/2.f2512455.chunk.css",
+    "static/js/2.f2192d66.chunk.js": "/Setting-goals/static/js/2.f2192d66.chunk.js",
+    "static/js/2.f2192d66.chunk.js.map": "/Setting-goals/static/js/2.f2192d66.chunk.js.map",
+    "static/js/3.1f76efb0.chunk.js": "/Setting-goals/static/js/3.1f76efb0.chunk.js",
+    "static/js/3.1f76efb0.chunk.js.map": "/Setting-goals/static/js/3.1f76efb0.chunk.js.map",
+    "index.html": "/Setting-goals/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/Setting-goals/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.fc5d65d8.chunk.css.map": "/Setting-goals/static/css/main.fc5d65d8.chunk.css.map",
+    "static/js/2.f2192d66.chunk.js.LICENSE.txt": "/Setting-goals/static/js/2.f2192d66.chunk.js.LICENSE.txt",
+    "static/media/logo.494f8bef.png": "/Setting-goals/static/media/logo.494f8bef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.27c02c97.js",
+    "static/js/runtime-main.9ed492d8.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.366cba8b.chunk.js",
-    "static/css/main.d1e1011f.chunk.css",
-    "static/js/main.1e6b6a23.chunk.js"
+    "static/js/2.f2192d66.chunk.js",
+    "static/css/main.fc5d65d8.chunk.css",
+    "static/js/main.a0d47648.chunk.js"
   ]
 }
