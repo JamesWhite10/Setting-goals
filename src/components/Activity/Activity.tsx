@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import RangeSlider from "react-bootstrap-range-slider";
 import style from "./Activity.module.css";
+import logo from "./../../assets/images/logo.png";
 
 const Activity: React.FC = () => {
   const [value, setValue] = useState<number>(0);
@@ -20,6 +21,9 @@ const Activity: React.FC = () => {
         <button type="button" className="btn btn-danger">
           SAVE FOR YOU LATER
         </button>
+        <div className={style.logo}>
+          <img src={logo} alt={"logo"} />
+        </div>
       </div>
       <div className={style.details}>
         <h3>ACTIVITY DETAILS</h3>
