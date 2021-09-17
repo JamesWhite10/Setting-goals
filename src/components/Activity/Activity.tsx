@@ -28,9 +28,9 @@ const Activity: React.FC = () => {
           aria-label="Default select example"
         >
           <option selected>CHOOSE ANY TYPE</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
+          <option value="1">Cooking</option>
+          <option value="2">Purchases</option>
+          <option value="3">Trips</option>
         </select>
         <h5>PARTICIPANTS</h5>
         <div className="input-group input-group-lg">
