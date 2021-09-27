@@ -20,6 +20,13 @@ const Header: React.FC = () => {
       >
         My List
       </NavLink>
+      <NavLink
+        to={PATH.TODO_LIST}
+        className={style.link}
+        activeClassName={style.active}
+      >
+        TodoList
+      </NavLink>
     </div>
   );
 };
