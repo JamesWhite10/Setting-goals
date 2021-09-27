@@ -22,7 +22,7 @@ const Activity: React.FC = () => {
           SAVE FOR YOU LATER
         </button>
         <div className={style.logo}>
-          <img src={logo} alt={"logo"} />
+          <img className={"mx-auto"} src={logo} alt={"logo"} />
         </div>
       </div>
       <div className={style.details}>
