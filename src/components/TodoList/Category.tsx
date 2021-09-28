@@ -10,7 +10,7 @@ type CategoryType = {
 
 const Category: React.FC<CategoryType> = (props) => {
   return (
-    <div className={"rounded-md position-relative"}>
+    <div className={"position-relative"}>
       <img src={props.image} alt={props.alt} />
       <div
         className={

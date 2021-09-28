@@ -6,7 +6,7 @@ type IconPropsType = {
 
 const IconType: React.FC<IconPropsType> = (props) => {
   return (
-    <div className={"flex w-full h-full mr-6"}>
+    <div className={"flex w-full h-full mr-4"}>
       <button className={"text-yellow-500"}>
         <svg
           className="w-6 h-6"
