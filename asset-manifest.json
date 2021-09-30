@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Setting-goals/static/css/main.dcdfc9b5.chunk.css",
-    "main.js": "/Setting-goals/static/js/main.d334c018.chunk.js",
-    "main.js.map": "/Setting-goals/static/js/main.d334c018.chunk.js.map",
-    "runtime-main.js": "/Setting-goals/static/js/runtime-main.bcdf179e.js",
-    "runtime-main.js.map": "/Setting-goals/static/js/runtime-main.bcdf179e.js.map",
+    "main.css": "/Setting-goals/static/css/main.a8953753.chunk.css",
+    "main.js": "/Setting-goals/static/js/main.9e55133a.chunk.js",
+    "main.js.map": "/Setting-goals/static/js/main.9e55133a.chunk.js.map",
+    "runtime-main.js": "/Setting-goals/static/js/runtime-main.32104634.js",
+    "runtime-main.js.map": "/Setting-goals/static/js/runtime-main.32104634.js.map",
     "static/css/2.01744c69.chunk.css": "/Setting-goals/static/css/2.01744c69.chunk.css",
-    "static/js/2.2ee66497.chunk.js": "/Setting-goals/static/js/2.2ee66497.chunk.js",
-    "static/js/2.2ee66497.chunk.js.map": "/Setting-goals/static/js/2.2ee66497.chunk.js.map",
-    "static/js/3.27147971.chunk.js": "/Setting-goals/static/js/3.27147971.chunk.js",
-    "static/js/3.27147971.chunk.js.map": "/Setting-goals/static/js/3.27147971.chunk.js.map",
+    "static/js/2.4b0cf05e.chunk.js": "/Setting-goals/static/js/2.4b0cf05e.chunk.js",
+    "static/js/2.4b0cf05e.chunk.js.map": "/Setting-goals/static/js/2.4b0cf05e.chunk.js.map",
+    "static/js/3.78a78055.chunk.js": "/Setting-goals/static/js/3.78a78055.chunk.js",
+    "static/js/3.78a78055.chunk.js.map": "/Setting-goals/static/js/3.78a78055.chunk.js.map",
     "index.html": "/Setting-goals/index.html",
     "static/css/2.01744c69.chunk.css.map": "/Setting-goals/static/css/2.01744c69.chunk.css.map",
-    "static/css/main.dcdfc9b5.chunk.css.map": "/Setting-goals/static/css/main.dcdfc9b5.chunk.css.map",
-    "static/js/2.2ee66497.chunk.js.LICENSE.txt": "/Setting-goals/static/js/2.2ee66497.chunk.js.LICENSE.txt",
+    "static/css/main.a8953753.chunk.css.map": "/Setting-goals/static/css/main.a8953753.chunk.css.map",
+    "static/js/2.4b0cf05e.chunk.js.LICENSE.txt": "/Setting-goals/static/js/2.4b0cf05e.chunk.js.LICENSE.txt",
     "static/media/busyWork.0fb78283.jpg": "/Setting-goals/static/media/busyWork.0fb78283.jpg",
     "static/media/charity.84ce13a0.jpg": "/Setting-goals/static/media/charity.84ce13a0.jpg",
     "static/media/cooking.881fa435.jpg": "/Setting-goals/static/media/cooking.881fa435.jpg",
@@ -27,10 +27,10 @@
     "static/media/social.844bb77e.jpg": "/Setting-goals/static/media/social.844bb77e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcdf179e.js",
+    "static/js/runtime-main.32104634.js",
     "static/css/2.01744c69.chunk.css",
-    "static/js/2.2ee66497.chunk.js",
-    "static/css/main.dcdfc9b5.chunk.css",
-    "static/js/main.d334c018.chunk.js"
+    "static/js/2.4b0cf05e.chunk.js",
+    "static/css/main.a8953753.chunk.css",
+    "static/js/main.9e55133a.chunk.js"
   ]
 }
