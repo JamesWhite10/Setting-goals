@@ -28,9 +28,9 @@ type SidebarPropsType = {
 
 const Sidebar: React.FC<SidebarPropsType> = (props) => {
   const sidebarOpen =
-    "flex h-screen opacity-90 position-absolute insert-y-0 left-0 transform -translate-x-full md:relative md:translate-x-0 transition duration-200 ease-in-out";
+    "flex h-screen opacity-90 position-fixed insert-y-0 left-0 transform -translate-x-full md:relative md:translate-x-0 transition duration-200 ease-in-out z-10";
   const sidebarClosed =
-    "flex h-screen opacity-90 position-absolute insert-y-0 left-0 transform -translate-x-full md:relative md:-translate-x-full transition duration-200 ease-in-out";
+    "flex h-screen opacity-90 position-fixed insert-y-0 left-0 transform -translate-x-full md:relative md:-translate-x-full transition duration-200 ease-in-out z-10";
   return (
     <div
       className={props.isSidebarOpen ? sidebarOpen : sidebarClosed}

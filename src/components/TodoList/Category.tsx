@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState } from "react";
+import Modal from "../Modal/Modal";
 
 type CategoryType = {
   image: string;
@@ -6,9 +7,11 @@ type CategoryType = {
   category: string;
   description: string;
   d: string;
+  descriptionModal: string;
 };
 
 const Category: React.FC<CategoryType> = (props) => {
+  const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
   return (
     <div className={"position-relative"}>
       <img src={props.image} alt={props.alt} />
@@ -22,7 +25,12 @@ const Category: React.FC<CategoryType> = (props) => {
           <div className={"text-white text-sm"}>{props.description}</div>
         </div>
         <div className={"flex mr-6"}>
-          <button className={"text-yellow-500"}>
+          <button
+            className={"text-yellow-500"}
+            onClick={() => {
+              setIsModalOpen(!isModalOpen);
+            }}
+          >
             <svg
               className="w-8 h-8"
               fill="currentColor"
@@ -34,6 +42,11 @@ const Category: React.FC<CategoryType> = (props) => {
           </button>
         </div>
       </div>
+      <Modal
+        isModalOpen={isModalOpen}
+        setIsModalOpen={setIsModalOpen}
+        descriptionModal={props.descriptionModal}
+      />
     </div>
   );
 };
